@@ -8,6 +8,7 @@ public class Main {
         PhoneBook.addPhoneBook("Иванов","8 923 456 2567");
         PhoneBook.addPhoneBook("Петров","8 913 456 2347");
         PhoneBook.addPhoneBook("Петров","8 913 456 2347");
+        PhoneBook.addPhoneBook("Васильев","8 913 456 2347");
         PhoneBook.printPhoneBook();
 
     }
